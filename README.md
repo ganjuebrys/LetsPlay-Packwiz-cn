@@ -10,4 +10,8 @@ This modpack is for the [Minecraft Transit Railway](https://github.com/Minecraft
    ```
    https://github.com/ganjuebrys/LetsPlay-Packwiz-cn/archive/refs/heads/master.zip
    ```
+   镜像源
+   ```
+   https://download.lnlfly.com/d/189/LetsPlay-Packwiz-cn-master.zip
+   ```
 1. Launch the imported instance by double-clicking on it. You may be prompted to sign in to your Minecraft account.

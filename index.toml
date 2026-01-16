@@ -5,20 +5,20 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-fabric-2.1.1+1.20.4.jar"
-hash = "391278881f4f9898e193dadfa10371d45b5cf74851de08b40f33090415ef0b34"
+file = "mods/jcm.pw.toml"
+hash = "FCA56F05F533F78D2DC0BDCDFAE3CCC9EC899FF238009BA2FB4A87A0B046904B"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
-hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
+file = "mods/mtrlondon.pw.toml"
+hash = "5E40ED3A7A1FAF1F036CCAF47CEFBEFB842B1A19263958B45C9A080C532F6F47"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.2-hotfix-1+1.20.4.jar"
-hash = "35771c83df85a7f386e7beac3ec053ee3453a5044b32efaa164c77a60801a289"
+file = "mods/mtr.pw.toml"
+hash = "930418A9B72409C340749A238B03EE461FFB4D4C27C659C6952CB89DC94F445F"
 
 [[files]]
-file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
-hash = "ce6c3288ea417fe1cde541ac1f1d6e555bc0f36532e7431207d2a2c451d7bac5"
+file = "mods/Slideshow.pw.toml"
+hash = "C860B41A8F102FD13E2DC25E7B9C4C748C73AF6DB3F37558155A61E00E16EEC0"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
@@ -151,8 +151,8 @@ hash = "181bfe0cfc3bd30e07dc328dac9fed42705ef5cd1977ee86e48942e8d0e47ee1"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
-hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
+file = "mods/resourcepackupdater.pw.toml"
+hash = "E97CADCA15C2EA55B674314263ED674827DD84F9B5609EBA507D2F5A40454A41"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"

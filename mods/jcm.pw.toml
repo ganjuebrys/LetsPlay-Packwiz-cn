@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/VMyzX4aT/JCM-fabric-2.1.1%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "0713752020a44b8e98ba467b37dff30e15e43eb32cb4f4e7755f3bd8ec606c1688d669d8c39319e81673de8ec9d6b0af5a20b04afb5c9ebfce351be206f6fe62"
+hash = "13C54625F449DC984882ACCA77E29578A4B680431236CC5CF2720BCB339D31088AF27A766BB1B3A20FB53723BEF6A8B85835D8F36DC5C6DD948AC990AF2269CE"
 
 [update]
 [update.modrinth]

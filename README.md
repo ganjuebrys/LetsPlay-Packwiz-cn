@@ -8,6 +8,6 @@ This modpack is for the [Minecraft Transit Railway](https://github.com/Minecraft
 1. Click on "Add Instance", then "Import".
 1. Paste in the following link and click "OK".
    ```
-   https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
+   https://github.com/ganjuebrys/LetsPlay-Packwiz-cn/archive/refs/heads/master.zip
    ```
 1. Launch the imported instance by double-clicking on it. You may be prompted to sign in to your Minecraft account.

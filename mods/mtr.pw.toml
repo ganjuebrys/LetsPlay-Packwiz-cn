@@ -1,0 +1,13 @@
+name = "mtr"
+filename = "MTR-fabric-4.0.2-hotfix-1+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/aXtsyhTi/MTR-fabric-4.0.2-hotfix-1%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "B09690417999084FA099640BC8F51598622A758137263EFB4BD774DE9F9A58ECE75BE0A78780C181C622C697AA20E1D613681FEB40C87090CC54300A0F39854A"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "aXtsyhTi"

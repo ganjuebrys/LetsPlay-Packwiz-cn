@@ -1,0 +1,8 @@
+name = "resourcepackupdater"
+filename = "resourcepackupdater-1.20.4-2.3.1.jar"
+side = "client"
+
+[download]
+url = "https://download.lnlfly.com/d/189/resourcepackupdater-1.20.4-2.3.1.jar"
+hash-format = "sha512"
+hash = "E3722931EB78595853523189FEBF2A367650A9805DB436EE200E7F1385273BD099FBC3C5CFB86ECB83EA73FD9235E9C637C898D94F7405FDD9B50915B9EF477C"
